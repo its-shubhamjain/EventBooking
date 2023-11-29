@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() {//kk
+function App() {
   //cddds
   return (
     <div className="App">
